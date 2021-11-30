@@ -1,0 +1,8 @@
+.banner{
+    height: 100vh;
+    position: relative;
+    background-image: url('../../../images/bike.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

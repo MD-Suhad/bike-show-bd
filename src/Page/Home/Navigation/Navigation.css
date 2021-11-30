@@ -1,0 +1,9 @@
+.navigation a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: rgba(0, 255, 255, 0.247);
+}
+
+.navigation-bar{
+    background: linear-gradient(to right, #253538, #272104); 
+}
